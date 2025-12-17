@@ -1,0 +1,14 @@
+
+{
+  "name": "The Konbini",
+  "description": "Nền tảng sáng tạo nội dung đa phương tiện của nhóm The Konbini (Truyện chữ, Truyện tranh, Video) hỗ trợ bởi AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "short_name": "Konbini",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#a67c52",
+  "background_color": "#1a120b"
+}
